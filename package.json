@@ -1,0 +1,22 @@
+{
+  "name": "langchain",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeeSeungYun1020/LearningLangChain.git"
+  },
+  "private": true,
+  "dependencies": {
+    "@langchain/core": "^1.0.6",
+    "@langchain/google-genai": "^1.0.3",
+    "langchain": "^1.0.6",
+    "pg": "^8.16.3",
+    "zod": "^4.1.12"
+  }
+}
